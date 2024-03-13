@@ -1,1 +1,2 @@
-# Solutions to fix the code challenges
+0x00. Fix my code
+Debugging
